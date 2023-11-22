@@ -1,0 +1,4 @@
+ resp = send_request(
+        node_process, 
+        session=session,
+        method='GET',
